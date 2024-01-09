@@ -1,0 +1,15 @@
+1. cmd -> avvia un nuovo interprete dei comandi
+2. dir -> visualizza il contenuto di una directory (cartella)
+3. cd -> change directory, entra in una nuova directory
+4. cd.. esce da una directory ed entra nella directory superiore
+5. type -> visualizza il contenuto di un file di testo
+6. md o mkdir -> make directory, crea una nuova directory
+7. copy -> copia uno o più file in un’altra posizione
+8. move -> sposta uno o più file in un’altra posizione
+9. del -> delete, cancella uno o più file
+10. rd - rmdir -> remove directory, cancella una o più directory
+11. ipconfig -> visualizza l’ip (indirizzo computer)
+12. ping 192.xxx.xx.x -> mando dati dal mio computer ad un'altro computer
+13. xcopy -> per copiare più file o interi alberi di directory da una directory all'altra e per copiare file attraverso una rete
+14 robocopy -> è un buon metodo per copiare grandi quantità di file
+15 tree -> mostra un albero delle cartelle
