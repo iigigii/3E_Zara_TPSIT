@@ -1,0 +1,22 @@
+
+Git = lavora sulla shell
+GitHub = lavora sul web
+
+- [ ] git —version = vedo se ho git installato
+- [ ] git init= inizializzo git nel mio progetto 
+- [ ] ls-a: posso vedete tutti i file anche quelli nascosti grazie al parametro a
+Parametri:
+- [ ] git config —global user.name “iigiigii”
+- [ ] git config —global user.email“luigi.zara@iisviolamarchesini.edu.it”
+- [ ] Creare repository 
+- [ ] Prendere il link (HTTPS)
+
+- [ ] git remote add origin +link= collego il git del progetto alla repository
+- [ ] git pull origin + nome bel ramo 
+- [ ] git status = vedo lo stato
+
+Caricamento file
+- [ ] git add .
+- [ ] git commit -m “commit”
+- [ ] Commit = aggiornamento del tipo di modifica (da fare in inglese)
+- [ ] Git push origin + nome del ramo
